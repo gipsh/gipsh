@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm gipsh</h1>
+
+<h3 align="center">Self-employed developer | I'm looking for projects I can contribute to</h3>
+
 
 <!--
 **gipsh/gipsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
