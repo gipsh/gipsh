@@ -2,6 +2,13 @@
 
 <h3 align="center">Self-employed developer | I'm looking for projects I can contribute to</h3>
 
+<div style="width: 100%; display:flex; justify-content: space-between; flex-wrap: wrap;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gipsh&show_icons=true&locale=en" alt="gipsh" />
+  <div style="display: grid; grid-template-columns: auto; gap: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gipsh&show_icons=true&locale=en" alt="gipsh" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gipsh" alt="gipsh" />
+  </div>
+</div>
 
 <!--
 **gipsh/gipsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
