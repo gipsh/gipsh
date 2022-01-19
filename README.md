@@ -2,7 +2,7 @@
 
 #### Self-employed developer | I'm looking for projects I can contribute to
 
-- 🐱‍👤 Skills: golang, java, ruby, AWS, serverless and more
+- 🐱‍👤 Skills: golang, java, ruby, AWS, serverless and many more 😎
 - 👯 I’m looking to collaborate on blockachain, web3, smart contracts, solidity
 - ♟ Chess & 🏂 Snowboard fan!
 
