@@ -5,6 +5,7 @@
 - 🐱‍👤 Skills: golang, java, ruby, AWS, serverless and many more 😎
 - 👯 I’m looking to collaborate on blockachain, web3, smart contracts, solidity
 - ♟ Chess & 🏂 Snowboard fan!
+- 📫 reach me at: gipshm at gmail
 
 
 <div style="width: 100%; display:flex; justify-content: space-between; flex-wrap: wrap;">
