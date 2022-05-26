@@ -1,10 +1,10 @@
 ### Hi 👋, I'm gipsh
 
-#### Self-employed developer | I'm looking for projects I can contribute to
+#### Self-employed software engineer 
 
-- 🐱‍👤 Skills: golang, java, ruby, AWS, serverless and many more 😎
-- 👯 I’m looking to collaborate on blockachain, web3, smart contracts, solidity
-- ♟ Chess & 🏂 Snowboard fan!
+- 🐱‍👤 Skills: go, java, python, ruby, AWS, terraform, serverless and many more 😎
+- 👯 I’m looking to collaborate on projects using blockachain, web3, smart contracts, solidity
+- ♟ Chess & 🏂 Snowboard!
 - 📫 reach me at: gipshm at gmail
 
 
