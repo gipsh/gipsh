@@ -3,7 +3,7 @@
 #### Self-employed software engineer 
 
 - 🐱‍👤 Skills: go, java, python, ruby, AWS, terraform, serverless and many more 😎
-- 👯 I’m looking to collaborate on projects using blockachain, web3, smart contracts, solidity
+- 🔭 I’m currently working on corezero.io
 - ♟ Chess & 🏂 Snowboard!
 - 📫 reach me at: gipshm at gmail
 
