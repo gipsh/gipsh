@@ -3,7 +3,7 @@
 #### Self-employed software engineer 
 
 - 🐱‍👤 Skills: go, java, python, ruby, AWS, terraform, serverless and many more 😎
-- 🔭 I’m currently working at corezero.io
+- 🔭 I’m currently working at ⚡ xlabs.xyz ⚡ 
 - ♟ Chess & 🏂 Snowboard!
 - 📫 reach me at: gipshm at gmail
 
