@@ -1,5 +1,3 @@
-<!-- Google tag (gtag.js) -->
-
 
 ### Hi 👋, I'm gipsh
 
