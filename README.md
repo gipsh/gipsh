@@ -4,7 +4,7 @@
 #### Self-employed software engineer 
 
 - 🐱‍👤 Skills: go, java, python, ruby, AWS, terraform, serverless and many more 😎
-- 🔭 I’m currently working at ⚡ storicard.com ⚡ 
+- 🔭 I’m currently working at ⚡ trustwallet.com ⚡ 
 - ♟ Chess & 🏂 Snowboard!
 - 📫 reach me at: gipshm at gmail
 
