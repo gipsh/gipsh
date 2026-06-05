@@ -4,7 +4,7 @@
 #### Self-employed software engineer 
 
 - 🐱‍👤 Skills: go, java, python, ruby, AWS, terraform, serverless and many more 😎
-- 🔭 I’m currently working at ⚡ trustwallet.com ⚡ 
+- 🔭 I’m currently building ⚡ nuez.app ⚡ to enable payments for AI agents.
 - ♟ Chess & 🏂 Snowboard!
 - 📫 reach me at: gipshm at gmail
 
